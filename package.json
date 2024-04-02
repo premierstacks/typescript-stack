@@ -1,0 +1,46 @@
+{
+  "name": "@tomchochola/typescript-config",
+  "description": "typescript config",
+  "keywords": [
+    "tomchochola",
+    "typescript-config"
+  ],
+  "homepage": "https://github.com/tomchochola/typescript-config",
+  "bugs": {
+    "email": "chocholatom1997@gmail.com",
+    "url": "https://github.com/tomchochola/typescript-config/issues"
+  },
+  "license": "SEE LICENSE IN ./LICENSE.md",
+  "author": {
+    "email": "chocholatom1997@gmail.com",
+    "name": "Tomáš Chochola",
+    "url": "https://github.com/tomchochola"
+  },
+  "contributors": [
+    {
+      "email": "chocholatom1997@gmail.com",
+      "name": "Tomáš Chochola",
+      "url": "https://github.com/tomchochola"
+    }
+  ],
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/tomchochola"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomchochola/typescript-config.git"
+  },
+  "dependencies": {
+    "@tsconfig/recommended": "^1.0.3",
+    "@types/react": "^18.2.64",
+    "@types/react-dom": "^18.2.21",
+    "typescript": "^5.4.2"
+  },
+  "devDependencies": {
+    "@tomchochola/prettier-config": "github:tomchochola/prettier-config",
+    "@tomchochola/eslint-config": "github:tomchochola/eslint-config"
+  },
+  "private": true,
+  "type": "module"
+}
