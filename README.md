@@ -1,4 +1,4 @@
-# [TypeScript Config](https://github.com/tomchochola/typescript-config) by [Tomáš Chochola](https://github.com/tomchochola)
+# [TypeScript Config](https://github.com/premierstacks/typescript-config) by [Tomáš Chochola](https://github.com/tomchochola)
 
 Enhance TypeScript projects with our Config: streamlined setup embracing the latest features and best practices for superior code quality. Ideal for all TypeScript-based development.
 
@@ -78,7 +78,7 @@ Secure your license at [Tomáš Chochola's GitHub Sponsors page](https://github.
 ### 2️⃣ Package Installation
 
 ```shell
-npm install --save-dev github:tomchochola/typescript-config
+npm install --save-dev github:premierstacks/typescript-config
 ```
 
 ### 3️⃣ Configuration
@@ -87,7 +87,7 @@ Initialize your `tsconfig.json`:
 
 ```js
 {
-  "extends": "@tomchochola/typescript-config/src/configs/recommended.json",
+  "extends": "@premierstacks/typescript-config/src/configs/recommended.json",
   "include": ["./src/**/*"],
   "compilerOptions": {
     "outDir": "./dist"
