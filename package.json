@@ -32,10 +32,10 @@
     "url": "https://github.com/premierstacks/typescript-config.git"
   },
   "dependencies": {
-    "@tsconfig/recommended": "^1.0.3",
-    "@types/react": "^18.2.64",
-    "@types/react-dom": "^18.2.21",
-    "typescript": "^5.4.2"
+    "@tsconfig/recommended": "^1.0",
+    "@types/react": "^18.3",
+    "@types/react-dom": "^18.3",
+    "typescript": "^5.4"
   },
   "devDependencies": {
     "@premierstacks/prettier-config": "github:premierstacks/prettier-config",
