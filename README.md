@@ -1,20 +1,20 @@
-# [TypeScript Config](https://github.com/premierstacks/typescript-config) by [Tomáš Chochola](https://github.com/tomchochola)
+# [TypeScript Stack](https://github.com/premierstacks/typescript-stack) by [Tomáš Chochola](https://github.com/tomchochola)
 
 Enhance TypeScript projects with our Config: streamlined setup embracing the latest features and best practices for superior code quality. Ideal for all TypeScript-based development.
 
-Our TypeScript Config provides an optimized set of configurations, leveraging the latest TypeScript features to enhance code quality and developer experience. Designed for rapid integration, it offers a shortcut to adopting best practices in TypeScript development, ensuring your projects are built on a future-proof foundation. With minimal setup required, it aims to enforce strict type-checking and utilize modern JavaScript features, making your code robust and maintainable. Regularly updated to reflect the evolving TypeScript ecosystem, this config is a reliable tool for developers seeking to elevate their TypeScript projects to new heights of quality and maintainability.
+Our TypeScript Stack provides an optimized set of configurations, leveraging the latest TypeScript features to enhance code quality and developer experience. Designed for rapid integration, it offers a shortcut to adopting best practices in TypeScript development, ensuring your projects are built on a future-proof foundation. With minimal setup required, it aims to enforce strict type-checking and utilize modern JavaScript features, making your code robust and maintainable. Regularly updated to reflect the evolving TypeScript ecosystem, this config is a reliable tool for developers seeking to elevate their TypeScript projects to new heights of quality and maintainability.
 
-## 👌 Top Reasons to Opt for Our Premium TypeScript Config
+## 👌 Top Reasons to Opt for Our Premium TypeScript Stack
 
-By integrating our Premium TypeScript Config into your development process, you not only streamline your TypeScript setup but also ensure that your projects are developed with the best practices in mind, setting a new standard for excellence in TypeScript development.
+By integrating our Premium TypeScript Stack into your development process, you not only streamline your TypeScript setup but also ensure that your projects are developed with the best practices in mind, setting a new standard for excellence in TypeScript development.
 
 ### ⏱️ Setup in Just 5 Minutes
 
-Embark on TypeScript projects with ease using our premium TypeScript Config. Designed for rapid integration, this configuration enables you to leverage the latest TypeScript features and best practices right from the start, saving valuable setup time.
+Embark on TypeScript projects with ease using our premium TypeScript Stack. Designed for rapid integration, this configuration enables you to leverage the latest TypeScript features and best practices right from the start, saving valuable setup time.
 
 ### 🕒 Hundreds of Hours of Research, So You Don't Have To
 
-Our TypeScript Config is the product of extensive research into TypeScript's evolving ecosystem. By choosing our configuration, you gain access to a refined set of rules and settings that embody the collective wisdom of the TypeScript community, ensuring your projects are built on a solid, future-proof foundation.
+Our TypeScript Stack is the product of extensive research into TypeScript's evolving ecosystem. By choosing our configuration, you gain access to a refined set of rules and settings that embody the collective wisdom of the TypeScript community, ensuring your projects are built on a solid, future-proof foundation.
 
 ### 🎚️ Minimal Setup, Maximum Code Quality
 
@@ -26,15 +26,15 @@ Whether you're a TypeScript veteran or new to the language, our Config is design
 
 ### 🔄 Continuously Updated
 
-Stay ahead of the curve in the fast-paced world of TypeScript development. Our TypeScript Config is regularly updated to incorporate the latest advancements, ensuring your projects always adhere to cutting-edge practices and standards.
+Stay ahead of the curve in the fast-paced world of TypeScript development. Our TypeScript Stack is regularly updated to incorporate the latest advancements, ensuring your projects always adhere to cutting-edge practices and standards.
 
 ### ⚔️ Battle-Tested Reliability
 
-Depend on a TypeScript Config that has been rigorously tested across a wide range of projects. From small libraries to large-scale applications, our configuration delivers consistent, error-free results, enhancing the reliability of your TypeScript code.
+Depend on a TypeScript Stack that has been rigorously tested across a wide range of projects. From small libraries to large-scale applications, our configuration delivers consistent, error-free results, enhancing the reliability of your TypeScript code.
 
 ### 🏆 Premier Quality Guarantee
 
-Choosing our TypeScript Config reflects your commitment to code quality and developer experience. This tool is more than just a set of rules; it's a comprehensive approach to TypeScript development that sets your projects apart in terms of quality, safety, and maintainability.
+Choosing our TypeScript Stack reflects your commitment to code quality and developer experience. This tool is more than just a set of rules; it's a comprehensive approach to TypeScript development that sets your projects apart in terms of quality, safety, and maintainability.
 
 ## 🛡️ License & Usage
 
@@ -67,7 +67,7 @@ This platform has been chosen for its reliability and ease of use, providing a s
 
 Choose from a variety of preconfigured presets:
 
-- **recommended**: An enhanced TypeScript configuration extending "@tsconfig/recommended" with additional compiler options for strict type checking and modern development practices.
+- **recommended**: An enhanced TypeScript Stackuration extending "@tsconfig/recommended" with additional compiler options for strict type checking and modern development practices.
 
 ## 🎬 Get Started
 
@@ -78,7 +78,7 @@ Secure your license at [Tomáš Chochola's GitHub Sponsors page](https://github.
 ### 2️⃣ Package Installation
 
 ```shell
-npm install --save-dev github:premierstacks/typescript-config
+npm install --save-dev github:premierstacks/typescript-stack
 ```
 
 ### 3️⃣ Configuration
@@ -87,7 +87,7 @@ Initialize your `tsconfig.json`:
 
 ```js
 {
-  "extends": "@premierstacks/typescript-config/src/configs/recommended.json",
+  "extends": "@premierstacks/typescript-stack/src/configs/recommended.json",
   "include": ["./src/**/*"],
   "compilerOptions": {
     "outDir": "./dist"
