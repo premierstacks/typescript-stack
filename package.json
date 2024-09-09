@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@tsconfig/recommended": "^1.0",
-    "typescript": "^5.4"
+    "typescript": "^5.6"
   },
   "devDependencies": {
     "@premierstacks/prettier-stack": "github:premierstacks/prettier-stack",
