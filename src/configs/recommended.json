@@ -9,7 +9,6 @@
     "moduleResolution": "Bundler",
     "jsx": "react-jsx",
     "allowJs": true,
-    "checkJs": true,
 
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
