@@ -1,6 +1,6 @@
 {
   "name": "@premierstacks/typescript-stack",
-  "description": "typescript stack",
+  "description": "premierstacks typescript stack",
   "keywords": [
     "premierstacks",
     "typescript-stack",
@@ -28,17 +28,18 @@
     "type": "github",
     "url": "https://github.com/sponsors/tomchochola"
   },
+  "sideEffects": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/premierstacks/typescript-stack.git"
   },
   "dependencies": {
-    "@tsconfig/recommended": "^1.0",
+    "@types/node": "^22.5.5",
     "typescript": "^5.6"
   },
   "devDependencies": {
-    "@premierstacks/prettier-stack": "github:premierstacks/prettier-stack",
-    "@premierstacks/eslint-stack": "github:premierstacks/eslint-stack"
+    "@premierstacks/eslint-stack": "github:premierstacks/eslint-stack",
+    "@premierstacks/prettier-stack": "github:premierstacks/prettier-stack"
   },
   "private": true,
   "type": "module"
