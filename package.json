@@ -2,9 +2,9 @@
   "name": "@premierstacks/typescript-stack",
   "description": "premierstacks typescript stack",
   "keywords": [
+    "tomchochola",
     "premierstacks",
-    "typescript-stack",
-    "tomchochola"
+    "typescript-stack"
   ],
   "homepage": "https://github.com/premierstacks/typescript-stack",
   "bugs": {
