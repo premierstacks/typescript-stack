@@ -34,8 +34,8 @@
     "url": "https://github.com/premierstacks/typescript-stack.git"
   },
   "dependencies": {
-    "@types/node": "^22.5.5",
-    "typescript": "^5.6"
+    "@types/node": "^22.10",
+    "typescript": "^5.7"
   },
   "devDependencies": {
     "@premierstacks/eslint-stack": "github:premierstacks/eslint-stack",
