@@ -33,6 +33,8 @@
     "strictPropertyInitialization": true,
     "target": "ES2020",
     "types": [],
-    "useUnknownInCatchVariables": true
+    "useUnknownInCatchVariables": true,
+    "isolatedModules": true,
+    "verbatimModuleSyntax": true
   }
 }
