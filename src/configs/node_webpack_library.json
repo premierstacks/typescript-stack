@@ -10,10 +10,10 @@
     "esModuleInterop": true,
     "exactOptionalPropertyTypes": true,
     "forceConsistentCasingInFileNames": true,
-    "jsx": "preserve",
+    "jsx": "react-jsx",
     "lib": ["ES2022"],
-    "module": "ESNext",
-    "moduleResolution": "nodenext",
+    "module": "ES2022",
+    "moduleResolution": "Bundler",
     "noFallthroughCasesInSwitch": true,
     "noImplicitAny": true,
     "noImplicitOverride": true,
@@ -35,6 +35,9 @@
     "types": ["node"],
     "useUnknownInCatchVariables": true,
     "isolatedModules": true,
-    "verbatimModuleSyntax": true
+    "verbatimModuleSyntax": true,
+    "strictBuiltinIteratorReturn": true,
+    "allowArbitraryExtensions": true,
+    "allowImportingTsExtensions": true
   }
 }
