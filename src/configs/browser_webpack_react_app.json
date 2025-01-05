@@ -8,7 +8,6 @@
     "declaration": false,
     "declarationMap": false,
     "esModuleInterop": true,
-    "exactOptionalPropertyTypes": true,
     "forceConsistentCasingInFileNames": true,
     "jsx": "react-jsx",
     "lib": ["DOM", "DOM.Iterable", "ES2020"],
