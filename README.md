@@ -140,17 +140,17 @@ The following is a breakdown of the folder and file structure within this reposi
 
 ```bash
 .
+├── AUTHORS.md
 ├── .editorconfig
+├── eslint.config.js
 ├── .gitattributes
 ├── .gitignore
-├── .prettierignore
-├── AUTHORS.md
-├── LICENSE.md
+├── LICENSE
 ├── Makefile
-├── README.md
-├── eslint.config.js
 ├── package.json
 ├── prettier.config.js
+├── .prettierignore
+├── README.md
 ├── src
 │   └── configs
 │       ├── browser_webpack_app.json
@@ -171,5 +171,5 @@ The following is a breakdown of the folder and file structure within this reposi
     ├── node_webpack_react_app.template
     └── node_webpack_react_library.template
 
-3 directories, 27 files
+4 directories, 27 files
 ```
