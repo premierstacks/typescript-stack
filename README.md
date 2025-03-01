@@ -42,7 +42,7 @@ His expertise spans backend systems built on PHP and Laravel, frontend interface
 
 **[GitHub Sponsors -> /sponsors/tomchochola](https://github.com/sponsors/tomchochola)**
 
-Premierstacks is now freely available under the MIT license, offering high-quality tools, libraries, and templates to the developer community. While the ecosystem remains open and accessible, its growth, updates, and ongoing maintenance depend on individual support.
+Premierstacks is now freely available under the Apache-2.0 license, offering high-quality tools, libraries, and templates to the developer community. While the ecosystem remains open and accessible, its growth, updates, and ongoing maintenance depend on individual support.
 
 By sponsoring Tomáš Chochola on GitHub Sponsors, you directly contribute to the continued development, improvement, and long-term sustainability of Premierstacks. Every contribution supports the creation of reliable, scalable, and future-proof solutions for developers worldwide.
 
@@ -135,43 +135,3 @@ Execute commands:
 **👨 GitHub Personal: [https://github.com/tomchochola](https://github.com/tomchochola)**<br />
 **🏢 GitHub Organization: [https://github.com/premierstacks](https://github.com/premierstacks)**<br />
 **💰 GitHub Sponsors: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)**<br />
-
-## Tree
-
-The following is a breakdown of the folder and file structure within this repository. It provides an overview of how the code is organized and where to find key components.
-
-```bash
-.
-├── AUTHORS.md
-├── .editorconfig
-├── eslint.config.js
-├── .gitattributes
-├── .gitignore
-├── LICENSE
-├── Makefile
-├── package.json
-├── prettier.config.js
-├── .prettierignore
-├── README.md
-├── src
-│   └── configs
-│       ├── browser_webpack_app.json
-│       ├── browser_webpack_library.json
-│       ├── browser_webpack_react_app.json
-│       ├── browser_webpack_react_library.json
-│       ├── node_webpack_app.json
-│       ├── node_webpack_library.json
-│       ├── node_webpack_react_app.json
-│       └── node_webpack_react_library.json
-└── templates
-    ├── browser_webpack_app.template
-    ├── browser_webpack_library.template
-    ├── browser_webpack_react_app.template
-    ├── browser_webpack_react_library.template
-    ├── node_webpack_app.template
-    ├── node_webpack_library.template
-    ├── node_webpack_react_app.template
-    └── node_webpack_react_library.template
-
-4 directories, 27 files
-```
