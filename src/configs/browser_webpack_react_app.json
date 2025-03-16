@@ -11,7 +11,7 @@
     "forceConsistentCasingInFileNames": true,
     "jsx": "react-jsx",
     "lib": ["DOM", "DOM.Iterable", "ES2020"],
-    "module": "es2020",
+    "module": "preserve",
     "moduleResolution": "bundler",
     "noFallthroughCasesInSwitch": true,
     "noImplicitAny": true,
