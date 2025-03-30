@@ -74,8 +74,6 @@ Explore the predefined templates for various configurations in the [/templates](
 **[/templates/browser_webpack_react_library.template](/templates/browser_webpack_react_library.template)**<br />
 **[/templates/browser_webpack_app.template](/templates/browser_webpack_app.template)**<br />
 **[/templates/browser_webpack_library.template](/templates/browser_webpack_library.template)**<br />
-**[/templates/node_webpack_react_app.template](/templates/node_webpack_react_app.template)**<br />
-**[/templates/node_webpack_react_library.template](/templates/node_webpack_react_library.template)**<br />
 **[/templates/node_webpack_app.template](/templates/node_webpack_app.template)**<br />
 **[/templates/node_webpack_library.template](/templates/node_webpack_library.template)**<br />
 
@@ -90,7 +88,7 @@ Ensure this package fits your needs and that you agree with the terms.
 Install using npm:
 
 ```bash
-npm install --save-dev github:premierstacks/typescript-stack
+npm install --save-dev github:premierstacks/typescript-stack#semver:^2.0
 ```
 
 **3. Select a template**
@@ -107,10 +105,6 @@ cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack_reac
 cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack_app.template ./tsconfig.json
 # or
 cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack_library.template ./tsconfig.json
-# or
-cp ./node_modules/@premierstacks/typescript-stack/templates/node_webpack_react_app.template ./tsconfig.json
-# or
-cp ./node_modules/@premierstacks/typescript-stack/templates/node_webpack_react_library.template ./tsconfig.json
 # or
 cp ./node_modules/@premierstacks/typescript-stack/templates/node_webpack_app.template ./tsconfig.json
 # or
