@@ -30,7 +30,7 @@
     "strictFunctionTypes": true,
     "strictNullChecks": true,
     "strictPropertyInitialization": true,
-    "target": "ESNext",
+    "target": "ES2024",
     "types": [],
     "useUnknownInCatchVariables": true,
     "isolatedModules": true,
@@ -38,7 +38,7 @@
     "strictBuiltinIteratorReturn": true,
     "allowArbitraryExtensions": true,
     "allowImportingTsExtensions": false,
-    "noEmit": true,
-    "noEmitOnError": true
+    "noEmit": false,
+    "noEmitOnError": false
   }
 }
