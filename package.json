@@ -31,7 +31,7 @@
   },
   "repository": "github:premierstacks/typescript-stack",
   "dependencies": {
-    "@types/node": "^22.13",
+    "@types/node": "^22.14",
     "typescript": "^5.8"
   },
   "devDependencies": {
