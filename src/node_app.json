@@ -10,9 +10,9 @@
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "jsx": "preserve",
-    "lib": ["ES2024"],
-    "module": "nodenext",
-    "moduleResolution": "nodenext",
+    "lib": ["es2024"],
+    "module": "node18",
+    "moduleResolution": "node16",
     "noFallthroughCasesInSwitch": true,
     "noImplicitAny": true,
     "noImplicitOverride": true,
@@ -30,15 +30,15 @@
     "strictFunctionTypes": true,
     "strictNullChecks": true,
     "strictPropertyInitialization": true,
-    "target": "ES2024",
+    "target": "es2024",
     "types": ["node"],
     "useUnknownInCatchVariables": true,
     "isolatedModules": true,
     "verbatimModuleSyntax": true,
     "strictBuiltinIteratorReturn": true,
-    "allowArbitraryExtensions": true,
+    "allowArbitraryExtensions": false,
     "allowImportingTsExtensions": false,
     "noEmit": false,
-    "noEmitOnError": false
+    "noEmitOnError": true
   }
 }
