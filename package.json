@@ -31,8 +31,8 @@
   },
   "repository": "github:premierstacks/typescript-stack",
   "dependencies": {
-    "@types/node": "^22.14",
-    "typescript": "^5.8"
+    "@types/node": "^22.14.1",
+    "typescript": "^5.8.3"
   },
   "devDependencies": {
     "@premierstacks/eslint-stack": "github:premierstacks/eslint-stack#semver:^2.0",
