@@ -3,7 +3,7 @@
  * @author Tomáš Chochola <chocholatom1997@gmail.com>
  * @copyright © 2025 Tomáš Chochola <chocholatom1997@gmail.com>
  *
- *@license Apache-2.0
+ * @license Apache-2.0
  *
  * @see {@link http://www.apache.org/licenses/LICENSE-2.0} License
  * @see {@link https://github.com/tomchochola} GitHub Personal
