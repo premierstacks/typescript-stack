@@ -1,5 +1,5 @@
 {
-  "extends": "@premierstacks/typescript-stack/src/browser_webpack_react_library.json",
+  "extends": "@premierstacks/typescript-stack/src/node_webpack.json",
   "include": ["./src/**/*"],
   "compilerOptions": {
     "outDir": "./dist",

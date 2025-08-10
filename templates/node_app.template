@@ -1,8 +1,0 @@
-{
-  "extends": "@premierstacks/typescript-stack/src/node_app.json",
-  "include": ["./src/**/*"],
-  "compilerOptions": {
-    "outDir": "./dist",
-    "rootDir": "./src"
-  }
-}

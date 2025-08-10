@@ -11,11 +11,8 @@
  * @see {@link https://github.com/sponsors/tomchochola} GitHub Sponsors
  */
 
-export { default as browserWebpackApp } from './browser_webpack_app.json';
-export { default as browserWebpackBabelReactApp } from './browser_webpack_babel_react_app.json';
-export { default as browserWebpackLibrary } from './browser_webpack_library.json';
-export { default as browserWebpackReactApp } from './browser_webpack_react_app.json';
-export { default as browserWebpackReactLibrary } from './browser_webpack_react_library.json';
-export { default as nodeApp } from './node_app.json';
-export { default as nodeWebpackApp } from './node_webpack_app.json';
-export { default as nodeWebpackLibrary } from './node_webpack_library.json';
+export { default as browserWebpack } from './browser_webpack.json';
+export { default as browserWebpackBabel } from './browser_webpack_babel.json';
+export { default as browserWebpackReact } from './browser_webpack_react.json';
+export { default as node } from './node.json';
+export { default as nodeWebpack } from './node_webpack.json';

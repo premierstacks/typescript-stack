@@ -68,14 +68,11 @@ By protecting the core quality and unity of Premierstacks, this license ensures 
 
 Explore the predefined templates for various configurations in the [/templates](/templates) directory. These templates provide quick-start setups for different environments.
 
-**[/templates/browser_webpack_app.template](/templates/browser_webpack_app.template)**<br />
-**[/templates/browser_webpack_babel_react_app.template](/templates/browser_webpack_babel_react_app.template)**<br />
-**[/templates/browser_webpack_library.template](/templates/browser_webpack_library.template)**<br />
-**[/templates/browser_webpack_react_app.template](/templates/browser_webpack_react_app.template)**<br />
-**[/templates/browser_webpack_react_library.template](/templates/browser_webpack_react_library.template)**<br />
-**[/templates/node_app.template](/templates/node_app.template)**<br />
-**[/templates/node_webpack_app.template](/templates/node_webpack_app.template)**<br />
-**[/templates/node_webpack_library.template](/templates/node_webpack_library.template)**<br />
+**[/templates/browser_webpack.template](/templates/browser_webpack.template)**<br />
+**[/templates/browser_webpack_babel.template](/templates/browser_webpack_babel.template)**<br />
+**[/templates/browser_webpack_react.template](/templates/browser_webpack_react.template)**<br />
+**[/templates/node.template](/templates/node.template)**<br />
+**[/templates/node_webpack.template](/templates/node_webpack.template)**<br />
 
 ## Getting Started
 
@@ -98,21 +95,15 @@ Choose one of the predefined configuration templates from the [/templates](/temp
 Use the `cp` command to copy it into your project as `/tsconfig.json`:
 
 ```bash
-cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack_app.template ./tsconfig.json
+cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack.template ./tsconfig.json
 # or
-cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack_babel_react_app.template ./tsconfig.json
+cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack_babel.template ./tsconfig.json
 # or
-cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack_library.template ./tsconfig.json
+cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack_react.template ./tsconfig.json
 # or
-cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack_react_app.template ./tsconfig.json
+cp ./node_modules/@premierstacks/typescript-stack/templates/node.template ./tsconfig.json
 # or
-cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack_react_library.template ./tsconfig.json
-# or
-cp ./node_modules/@premierstacks/typescript-stack/templates/node_app.template ./tsconfig.json
-# or
-cp ./node_modules/@premierstacks/typescript-stack/templates/node_webpack_app.template ./tsconfig.json
-# or
-cp ./node_modules/@premierstacks/typescript-stack/templates/node_webpack_library.template ./tsconfig.json
+cp ./node_modules/@premierstacks/typescript-stack/templates/node_webpack.template ./tsconfig.json
 ```
 
 **4. CLI**
