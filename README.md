@@ -68,11 +68,11 @@ By protecting the core quality and unity of Premierstacks, this license ensures 
 
 Explore the predefined templates for various configurations in the [/templates](/templates) directory. These templates provide quick-start setups for different environments.
 
-**[/templates/browser_webpack.template](/templates/browser_webpack.template)**<br />
-**[/templates/browser_webpack_babel.template](/templates/browser_webpack_babel.template)**<br />
-**[/templates/browser_webpack_react.template](/templates/browser_webpack_react.template)**<br />
-**[/templates/node.template](/templates/node.template)**<br />
-**[/templates/node_webpack.template](/templates/node_webpack.template)**<br />
+**[/templates/browser_webpack.json](/templates/browser_webpack.json)**<br />
+**[/templates/browser_webpack_babel.json](/templates/browser_webpack_babel.json)**<br />
+**[/templates/browser_webpack_react.json](/templates/browser_webpack_react.json)**<br />
+**[/templates/node.json](/templates/node.json)**<br />
+**[/templates/node_webpack.json](/templates/node_webpack.json)**<br />
 
 ## Getting Started
 
@@ -95,15 +95,15 @@ Choose one of the predefined configuration templates from the [/templates](/temp
 Use the `cp` command to copy it into your project as `/tsconfig.json`:
 
 ```bash
-cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack.template ./tsconfig.json
+cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack.json ./tsconfig.json
 # or
-cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack_babel.template ./tsconfig.json
+cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack_babel.json ./tsconfig.json
 # or
-cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack_react.template ./tsconfig.json
+cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack_react.json ./tsconfig.json
 # or
-cp ./node_modules/@premierstacks/typescript-stack/templates/node.template ./tsconfig.json
+cp ./node_modules/@premierstacks/typescript-stack/templates/node.json ./tsconfig.json
 # or
-cp ./node_modules/@premierstacks/typescript-stack/templates/node_webpack.template ./tsconfig.json
+cp ./node_modules/@premierstacks/typescript-stack/templates/node_webpack.json ./tsconfig.json
 ```
 
 **4. CLI**
